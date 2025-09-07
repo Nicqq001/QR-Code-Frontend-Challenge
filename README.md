@@ -27,8 +27,8 @@ This is a solution to the [Qr code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/Nicqq001/qr-code-component-main?tab=readme-ov-file)
-- Live Site URL: [Live Site URL](https://nicqq001.github.io/qr-code-component-main/)
+- Solution URL: [Solution URL](https://github.com/Nicqq001/QR-Code-Frontend-Challenge)
+- Live Site URL: [Live Site URL](https://nicqq001.github.io/QR-Code-Frontend-Challenge/)
 
 
 ## My Process
