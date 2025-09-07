@@ -24,7 +24,7 @@ body{
     background-color: hsl(0, 0%, 100%);
     border-radius: 1.25rem;
     max-width: 20rem;
-    padding: calc(12px, 4vw, 20);
+    padding: calc(0.75rem, 4vw, 1.25rem);
     margin: 1.25rem;
 }
 
