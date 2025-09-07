@@ -54,7 +54,7 @@ footer a{
     color: hsl(228, 45%, 44%);
 }
 
-@media (min-width: 23.4375rem){
+@media (max-width: 23.4375rem){
     h1{
         font-size: 0.75rem;
     }
